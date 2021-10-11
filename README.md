@@ -7,8 +7,10 @@ Built for Pakket (MacOS package manager).
 
 ```generate-ca-certificates <prefix> <certdir>```
 
+```
 prefix: The directory from where the downloaded cacert.pem file is read.
 certdir: The output directory where the cert.pem file will end.
+```
 
 ## Build
 
